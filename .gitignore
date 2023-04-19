@@ -1,0 +1,3 @@
+# Prodject exclude paths
+/node_modules/
+/.idea
